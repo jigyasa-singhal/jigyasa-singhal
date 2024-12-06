@@ -1,3 +1,4 @@
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! </h1>
 <h1 align="center">Hi 👋, I'm Jigyasa Singhal</h1>
 <h3 align="center">A curious Person to know the Things</h3>
 
